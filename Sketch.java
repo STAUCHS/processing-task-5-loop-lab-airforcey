@@ -90,9 +90,9 @@ public class Sketch extends PApplet {
 
         if (intColumn % 2 == 0) {
           fill(255);
-         { else }
+         } else
           fill(0);
-        }
+        
           rect(intX, intY, 5, 5);
         
         }
